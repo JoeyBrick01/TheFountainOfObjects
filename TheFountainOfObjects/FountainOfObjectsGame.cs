@@ -127,6 +127,7 @@ public class FountainOfObjectsGame
         // Intro
         ConsoleHelper.WriteLine("You enter the Cavern of Objects, a maze of rooms filled with dangerous pits in search", ConsoleColor.Gray);
         ConsoleHelper.WriteLine("of the Fountain of Objects.", ConsoleColor.Gray);
+        Console.WriteLine("");
 
         ConsoleHelper.Write("Light ", ConsoleColor.Yellow);
         ConsoleHelper.Write("is visible only in the entrance, and no other ", ConsoleColor.Gray);
