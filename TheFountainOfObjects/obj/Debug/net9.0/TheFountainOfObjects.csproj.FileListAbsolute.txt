@@ -1,0 +1,15 @@
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\bin\Debug\net9.0\TheFountainOfObjects.exe
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\bin\Debug\net9.0\TheFountainOfObjects.deps.json
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\bin\Debug\net9.0\TheFountainOfObjects.runtimeconfig.json
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\bin\Debug\net9.0\TheFountainOfObjects.dll
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\bin\Debug\net9.0\TheFountainOfObjects.pdb
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.AssemblyInfoInputs.cache
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.AssemblyInfo.cs
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.sourcelink.json
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.dll
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\refint\TheFountainOfObjects.dll
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.pdb
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\TheFountainOfObjects.genruntimeconfig.cache
+C:\Users\brick\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net9.0\ref\TheFountainOfObjects.dll
